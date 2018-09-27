@@ -5,6 +5,6 @@ public class hello {
     */
 
    public static void main(String []args) {
-      System.out.println("Hello World"); // prints Hello World
+      System.out.println("Hello Jenkins, This Pipelines seems to work good"); // prints Hello World
    }
 }
